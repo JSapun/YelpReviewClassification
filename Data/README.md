@@ -1,11 +1,11 @@
-# Notes on retrieved data
+# Notes on Retrieved Data
 
 Yelp has hundreds of millions of reviews and millions of consumer interactions with local businesses. Yelp maintains a review filtering system to remove biased or 
 fake content from appearing on it, so the data is reliable. Yelp’s fusion API only allows three reviews for a single business, so I decided to web scrape, bypass 
 restrictions, and retrieve all the reviews and ratings possible. This folder contains only cleaned data web scraped from Yelp, and the files created to aid my 
 classification model development.
 
-# List of raw files
+# List of Raw Files
 
 ### 1.) [**2.5k_reviews.csv**](https://github.com/JSapun/YelpReviewClassification/blob/main/Data/2.5k_reviews.csv)
 This dataset contains 2577 entries on: 
