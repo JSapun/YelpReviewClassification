@@ -47,7 +47,7 @@ The outcome of interest is the sentiment of each review in the dataset. I am try
   * Navigating to: ```./venv/Scripts/``` 
   * Enter: ```activate.bat```
   * Navigate back to root: ```cd ../../```
-  * Install required packages: ```pip install -r /path/to/requirements.txt```
+  * Install required packages: ```pip install -r requirements.txt```
 
 ### Testing the model:
 You can easily test the model using the sample code provided in [05_testPKL.ipynb](https://github.com/JSapun/YelpReviewClassification/blob/main/Code/05_testPKL.ipynb). Below are the steps explained.
