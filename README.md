@@ -26,8 +26,12 @@ Ensure the GitHub repository is structured appropriately:
 Add your instructions here. 
 
 
-Run
-Assuming you have Python 3.12 installed and added to Path, create a virtual env using venv:
-Create: python3 -m venv name_of_your_venv
-Activate it: name_of_your_venv\Scripts\activate.bat
-Install required packages: pip install -r /path/to/requirements.txt
+Setup:
+Assuming you have Python 3.12 installed and added to Path, create a virtual env using venv with Windows CMD:
+* Create: py -3.12 -m venv venv
+* Navigating to: ./venv/Scripts/ 
+* Enter: activate.bat
+* Navigate back to root: cd ../../
+* Install required packages: pip install -r /path/to/requirements.txt
+
+Ready to run files!
