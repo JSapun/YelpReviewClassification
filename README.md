@@ -44,7 +44,7 @@ The outcome of interest is the sentiment of each review in the dataset. I am try
 ### Setup:
 * Assuming you have Python 3.12 installed and added to Path, create a virtual env using venv with Windows CMD:
   * Create: ```py -3.12 -m venv venv```
-  * Navigating to: ```./venv/Scripts/``` 
+  * Navigating to: ```cd ./venv/Scripts/``` 
   * Enter: ```activate.bat```
   * Navigate back to root: ```cd ../../```
   * Install required packages: ```pip install -r requirements.txt```
